@@ -41,11 +41,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BotClasses\Bot.cs" />
+    <Compile Include="BotClasses\Commands\CalculateCommand.cs" />
+    <Compile Include="BotClasses\FileAnswerLoader.cs" />
+    <Compile Include="BotClasses\RandomBotStrategy.cs" />
+    <Compile Include="BotInterfaces\IAnswerLoader.cs" />
+    <Compile Include="BotInterfaces\IBotCommand.cs" />
+    <Compile Include="BotInterfaces\IBotStrategy.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="answers.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,8 @@
+D:\epam_hc\ChatQuBot\ChatQuBot\bin\Debug\ChatQuBot.exe.config
+D:\epam_hc\ChatQuBot\ChatQuBot\bin\Debug\ChatQuBot.exe
+D:\epam_hc\ChatQuBot\ChatQuBot\bin\Debug\ChatQuBot.pdb
+D:\epam_hc\ChatQuBot\ChatQuBot\obj\Debug\ChatQuBot.csprojResolveAssemblyReference.cache
+D:\epam_hc\ChatQuBot\ChatQuBot\obj\Debug\ChatQuBot.csproj.CoreCompileInputs.cache
+D:\epam_hc\ChatQuBot\ChatQuBot\obj\Debug\ChatQuBot.exe
+D:\epam_hc\ChatQuBot\ChatQuBot\obj\Debug\ChatQuBot.pdb
+D:\epam_hc\ChatQuBot\ChatQuBot\bin\Debug\answers.txt
